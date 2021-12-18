@@ -1,0 +1,58 @@
+@media (max-width: 770px) {
+  .footer-botton-final {
+    margin-top: 15%;
+  }
+  .footer-download-botton-container{
+    width: 100%;
+    height: auto;
+    padding-top: 5%;
+    padding-left: 0%;
+    padding-bottom: 40%;
+    margin-bottom: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: unset;
+  }
+  .footer-download-botton-tittle {
+    font-size: 14vw;
+    text-align: center;
+    margin-top: 0%;
+  }
+  .footer-download-botton-p {
+    width: 90%;
+    margin-top: 0%;
+    padding-left: 10%;
+    margin-bottom: 1%;
+    font-size: 3.4vw;
+    font-weight: 100;
+    color: #ffffff;
+  }
+  .sectionDownload-orangeContent-conteinerLinks {
+    width: 82%;
+    margin: 8% auto 0;
+  }
+  .footer-download-botton-linha-vermelha {
+    margin-top: 4%;
+    width: 98% !important;
+  }
+  .footer-download-botton-stwr {
+    width: 50%;
+    margin-top: 10%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0;
+    align-self: center;
+  }
+  .sectionDownload-orangeContent-ParagrafFinal {
+    width: 80%;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    font-size: 3.8vw;
+    align-self: center;
+  }
+  .footer-darth-v {
+    right: 13%;
+    top: 80%;
+    width: 80%;
+  }
+}

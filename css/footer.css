@@ -1,0 +1,184 @@
+.footer-container-geral {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.footer-container-download {
+  position: relative;
+  top: -1%;
+  width: 100%;
+  height: 100%;
+}
+.footer-container-download-content {
+  position: relative;
+  left: 30%;
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+  background-color: #ffffff;
+}
+.footer-download-top {
+  margin-top: 10%;
+  width: 25%;
+  height: 50%;
+  font-family: 'Open Sans';
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.footer-tittle-content {
+  font-size: 2vw;
+  font-weight: 100;
+  margin-bottom: 8%;
+}
+.footer-content-button {
+  position: relative;
+  width: 80%;
+  height: auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.footer-content-button:hover .footer-string-button {
+ background: linear-gradient(50deg, #000033, #00004D, #00008C);
+  
+}
+.footer-content-button:hover .footer-bgc {
+  left: 0%;
+}
+.footer-string-button {
+  position: absolute;
+  top: 300%;
+  width: 40%;
+  height: 10%;
+  border-radius: 5px;
+  background-color: black;
+  transition-duration: 1.2s;
+  transition-property: all;
+  transition-timing-function: ease;
+}
+.footer-button-download {
+  background-color: black;
+  padding: 7% 12%;
+  color: whitesmoke;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+.footer-bgc{
+  position: absolute;
+  top: 0px;
+  left: -100%;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background: linear-gradient(50deg, #001, #000033, #00004D, #00008C);
+  transition-duration: 1.2s;
+  transition-property: right;
+  transition-timing-function: ease;
+}
+.footer-button-download h3 {
+  position: relative;
+  z-index: 9;
+  cursor: pointer;
+  font-size: 1.5vw;
+  font-weight: 100;
+}
+.footer-bgc-p {
+  margin-top: 15%;
+  width: 60%;
+  text-align: center;
+  font-size: 1.3vw;
+}
+.firstCardParagraf {
+  font-size: 1.05vw;
+  font-weight: 400;
+}
+.footer-botton-final {
+  position: relative;
+}
+
+.footer-download-botton-container {
+  width: 63.2%;
+  height: auto;
+
+  margin-top: 20%;
+
+  padding-top: 5%;
+  padding-left: 12%;
+  padding-bottom: 0.1%;
+
+  background-color: #f54;
+}
+
+.footer-download-botton-tittle {
+  text-transform: uppercase;
+
+  font-family: 'Soreveign';
+  font-style: normal;
+  font-size: 3vw;
+
+  color: #ffffff;
+
+  margin-top: 2%;
+}
+
+.footer-download-botton-p {
+  width: 60%;
+  margin-top: 3%;
+
+  font-family: 'Open Sans';
+  font-size: 1.2vw;
+  font-weight: 100;
+
+  color: #ffffff;
+}
+
+.footer-download-botton-google-apple {
+  margin-top: 3%;
+  width: 60%;
+cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footer-download-botton-google-apple img {
+  width: 49%;
+}
+
+.footer-download-botton-linha-vermelha {
+  margin-top: 12%;
+  width: 98% !important;
+}
+
+.footer-download-botton-stwr {
+  width: 30%;
+
+  margin-top: 4%;
+  margin-bottom: 5%;
+}
+
+.sectionDownload-orangeContent-ParagrafFinal {
+  width: 65%;
+
+  font-family: 'Open Sans';
+  font-size: 1.2vw;
+  font-weight: 100;
+
+  color: #ffffffbd;
+
+  margin-bottom: 3%;
+}
+
+.footer-darth-v {
+  position: absolute;
+  right: 7.2%;
+  top: -15%;
+
+  width: 40%;
+
+  filter: drop-shadow(5px 10px 25px black) contrast(1.2) brightness(100%);
+}

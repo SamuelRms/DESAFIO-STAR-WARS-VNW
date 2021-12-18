@@ -1,0 +1,139 @@
+@media (max-width: 770px) {
+  .main-conteiner-estrutura {
+    position: relative;
+    height: 100%;
+  }
+  .main-container-itens {
+    width: 100%;
+    height: auto;
+    position: relative;
+    padding-top: 10%;
+    padding-bottom: 69%;
+  }
+  .main-img-right {
+    position: absolute;
+    width: 70%;
+  }
+  .main-img-red-stormt {
+    position: relative;
+    width: 60%;
+    left: 30%;
+    top: 0%;
+    right: 0%;
+    z-index: 10;
+  }
+  .main-img-red-text-title {
+    font-size: 7.2vw;
+  }
+  .main-img-red-text-p {
+    font-size: 4vw;
+    margin-top: 6%;
+    text-align: center;
+  }
+  .main-img-red-button {
+    font-size: 4vw;
+    margin-top: 10%;
+  }
+  .main-item-battlefront {
+    position: relative;
+    left: 30%;
+    margin-top: 5%;
+    right: 0%;
+    z-index: 9;
+    width: 70%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+  }
+  .main-item-battlefront-text {
+    order: 2;
+    width: 100%;
+  }
+  .main-item-battlefront-text h3 {
+    margin-top: 4%;
+    font-size: 4.8vw;
+    position: relative;
+    right: 14%;
+  }
+  .main-item-battlefront-div-txt {
+    margin-top: 1%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    position: relative;
+    right: 14.5%;
+    z-index: 9;
+    border-radius: 5px;
+    width: 48%;
+    height: 3px;
+  }
+  .main-item-battlefront-text p {
+    text-align: end;
+    width: 110%;
+    font-size: 3.8vw;
+    position: relative;
+    right: 24%;
+  }
+  .main-item-battlefront-img {
+    order: 1;
+    width: 86%;
+  }
+  .main-divisor {
+    position: absolute;
+    top: 77%;
+    right: 9.8%;
+    margin-left: auto;
+    width: 76%;
+    height: 5px;
+    border-radius: 5px;
+  }
+  .main-img-lord-sifh {
+    position: absolute;
+    width: 47%;
+
+    top: 84%;
+    left: 2%;
+    z-index: 1;
+  }
+  .main-sidenav-link-interno{
+    position: absolute;
+    top: 85%;
+    left: 26%;
+    height: auto;
+  }
+  .main-sidenav-title {
+    position: relative;
+    top: -9.4%;
+    left: 13%;
+    width: 70%;
+    font-size: 5vw;
+  }
+  .main-sidenav-content {
+    margin-right: 0%;
+    position: relative;
+    top: -9%;
+    left: 10%;
+  }
+  .main-sidenav-content ul {
+    list-style: none;
+    text-align: end;
+    width: 104%;
+  }
+  .main-sidenav-content ul li {
+    font-family: 'Open Sans';
+    margin-bottom: 1.8%;
+    width: 100%;
+    border-radius: 2px;
+    padding: 0.5% 1.5% 0.5% 0.5%;
+
+    font-weight: 600;
+
+    font-size: 2.3vw;
+  }
+  .main-img-ren-skywalker {
+    position: absolute;
+    width: 26%;
+    top: 83.9%;
+    right: 2%;
+    z-index: 1;
+  }
+}

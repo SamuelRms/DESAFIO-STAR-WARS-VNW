@@ -1,0 +1,79 @@
+@media (min-width: 1900px) {
+  .header-container-legiao {
+    padding-bottom: 120px;
+    right: 10%;
+    width: auto;
+  }
+  .header-container-legiao h2 {
+    font-size: 30px;
+  }
+  .header-container-legiao span {
+    font-size: 30px;
+  }
+  .main-img-red-text-title {
+    font-size: 42px;
+  }
+  .main-img-red-text-p {
+    font-size: 20px;
+  }
+  .main-img-red-button {
+    font-size: 20px;
+  }
+  .main-item-battlefront-text h3 {
+    font-size: 35px;
+  }
+  .main-contanier-attributes h3 {
+    font-size: 58px;
+  }
+  .main-contanier-attributes p {
+    font-size: 28px;
+  }
+  .main-contanier-attributes a {
+    font-size: 26px;
+  }
+  .images2-contentbox-fonts h3 {
+    font-size: 32px;
+  }
+  .images2-contentbox-fonts p {
+    font-size: 17px;
+  }
+  .images2-contentbox-fonts a {
+    font-size: 16px;
+  }
+  .main-item-battlefront-text p {
+    font-size: 25px;
+  }
+  .main-attributes-title {
+    font-size: 60px;
+  }
+  .main-sidenav-title {
+    font-size: 80px;
+  }
+  .main-sidenav-content ul li {
+    font-size: 25px;
+  }
+  .section-comoJogar-title {
+    font-size: 60px;
+  }
+  .footer-tittle-content {
+    font-size: 40px;
+  }
+  .footer-button-download h3 {
+    font-size: 30px;
+  }
+  .footer-bgc-p {
+    font-size: 20px;
+  }
+  #firstCardParagraf {
+    font-size: 20px;
+  }
+  .sectionDownload-orangeContent-title {
+    font-size: 60px;
+  }
+  .footer-download-botton-p {
+    font-size: 22px;
+  }
+  .sectionDownload-orangeContent-ParagrafFinal {
+    font-size: 22px;
+  }
+}

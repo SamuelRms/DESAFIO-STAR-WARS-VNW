@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+img {
+  display: block;
+  max-width: 100%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+@font-face {
+  font-family: 'Soreveign';
+  src: url(assets/fontes/Sovereign-Regular.otf);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+* img {
+  filter: contrast(1.2) brightness(90%);
+}

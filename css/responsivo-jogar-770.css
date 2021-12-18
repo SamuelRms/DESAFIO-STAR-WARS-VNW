@@ -1,0 +1,66 @@
+@media (max-width: 770px) {
+  .main-img-capitao-stormt {
+    position: absolute;
+    bottom: -36%;
+    left: -43%;
+    z-index: 9;
+    width: 105%;
+  }
+  .footer-container-download-content {
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    left: 20%;
+    flex-direction: column;
+  }
+  .footer-button {
+    margin-top: 0px;
+  }
+  .footer-download-top {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  #firstCardParagraf {
+    font-size: 3.5vw;
+  }
+  .footer-tittle-content {
+    font-size: 8vw;
+    font-weight: 200;
+    margin-bottom: 2%;
+  }
+  .footer-content-button {
+    position: relative;
+    width: 140%;
+    height: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  .footer-button-download {
+    width: 30%;
+    background-color: black;
+    padding: 2.5% 6%;
+    color: whitesmoke;
+    overflow: hidden;
+    position: relative;
+  }
+  .footer-button-download h3 {
+    font-size: 4vw;
+  }
+  .footer-bgc-p {
+    margin-top: 0%;
+    font-size: 4vw;
+    width: 40%;
+  }
+  .footer-string-button {
+    position: absolute;
+    top: 200%;
+    height: 10%;
+    width: 10%;
+  }
+}

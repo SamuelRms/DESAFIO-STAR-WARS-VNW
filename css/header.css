@@ -1,0 +1,52 @@
+.container-geral {
+  max-width: 1920px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.header {
+  width: 100%;
+  position: relative;
+}
+.header-img {
+  width: 100%;
+  height: 100%;
+  background-position: center;
+}
+.header-container-itens {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0%;
+}
+.header-item-text-star {
+  width: 25%;
+  position: relative;
+  left: 30%;
+  filter: brightness(120%) contrast(200%);
+}
+.header-item-boneco {
+  width: 70%;
+  position: relative;
+  right: 2%;
+  z-index: 9;
+}
+.header-item-text-wars {
+  width: 25%;
+  position: relative;
+  right: 18%;
+  filter: brightness(120%) contrast(200%);
+}
+.header-container-legiao {
+  width: 10%;
+  height: 10%;
+  position: absolute;
+  top: 62%;
+  right: 10%;
+  z-index: 19;
+}
+.header-container-legiao-img {
+  width: 100%;
+}

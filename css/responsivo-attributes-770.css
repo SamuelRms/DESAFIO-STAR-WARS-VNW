@@ -1,0 +1,55 @@
+@media (max-width: 768px) {
+  .main-attributes-title {
+    font-size: 5vw;
+    text-align: center;
+    position: unset;
+  }
+  .main-container-all-img-propriedades {
+    flex-wrap: wrap;
+    max-height: unset;
+  }
+  .main-container-img-top {
+    width: 100%;
+  }
+  .main-contanier-attributes h3 {
+    font-size: 5vw;
+  }
+  .main-contanier-attributes p {
+    font-size: 3.8vw;
+    top: 43%;
+  }
+  .main-contanier-attributes a {
+    font-size: 3vw;
+    bottom: 8%;
+    border: 3px solid whitesmoke;
+  }
+  .main-container-imgs-top {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10%;
+    position: unset;
+  }
+  .images2-contentbox-fonts a {
+    padding: 2% 7%;
+  }
+  .main-content-container-imgs-top {
+    position: relative;
+    width: 100%;
+    height: 25%;
+  }
+  .main-container-img-button {
+    width: 100%;
+    margin-bottom: 0;
+  }
+  .main-container-button-p {
+    width: 60%;
+    font-size: 2vw;
+    position: relative;
+    right: 10%;
+  }
+  .main-container-title-jogar {
+    position: relative;
+    right: -20%;
+    font-size: 4.2vw;
+  }
+}
